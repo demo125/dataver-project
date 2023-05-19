@@ -1,6 +1,7 @@
 [
     {
         "dvc_object_path": "file1.txt",
+        "rev": "8e26a141440a0507b41553c94062046b0a6e750c",
         "dataset_object_path": "file1.txt"
     },
     {
