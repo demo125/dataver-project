@@ -1,0 +1,4 @@
+[core]
+    remote = datastore
+['remote "datastore"']
+    url = C:/Users/mademeter/OneDrive - Alanata a.s/Desktop/dataver/dataver/dvc-data
